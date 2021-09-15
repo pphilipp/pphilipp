@@ -11,10 +11,14 @@
 
 Howdy, I'm Philipp — an android software engineer at [ABAX](http://abax.no/) company.
 
+<img align="center" alt="pphilipp | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+
+**Medium Activist** and **Android community information field protector** by avoiding generation and writing tutorials and articles based on hyped technologies or themes.
+
 ## Get in touch
 
 - Telegram: https://t.me/philippoid
-- Twitter: https://twitter.com/Philippoid
+- Twitter: https://twitter.com/Philipp_buga
 - Stack Overflow: https://stackoverflow.com/users/6094213/philipp-buhaievskiy?tab=profile
 
 ## 📈 GitHub Stats
