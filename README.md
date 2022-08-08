@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ![philippoid-03](https://user-images.githubusercontent.com/9698643/133893071-d58f2848-b915-4a99-967a-8dc045c91a99.png)
 
 
