@@ -7,7 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-philippdevel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippdevel/)](https://www.linkedin.com/in/philippdevel/)
 [![Telegram](https://img.shields.io/badge/-Philippoid-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Philippoid)](https://web.telegram.org/#/im?p=@Philippoid)
-[![Repos](https://badges.pufler.dev/repos/pphilipp)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pphilipp.pphilipp)
 
 <a href="https://stackoverflow.com/users/6094213/philipp-buhaievskiy">
