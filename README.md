@@ -25,10 +25,7 @@ Howdy, I'm Philipp — an android software engineer at [WoodSpoon](https://www.e
 - Twitter: https://twitter.com/Philipp_buga
 - Stack Overflow: https://stackoverflow.com/users/6094213/philipp-buhaievskiy?tab=profile
 
-## 📈 GitHub Stats
+## 📈 LeetCode Stats
 
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pphilipp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pphilipp&hide=TeX,HTML&theme=tokyonight">
-</p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/philippoid?theme=dark&font=Anek%20Telugu)
