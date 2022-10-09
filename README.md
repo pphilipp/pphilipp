@@ -13,7 +13,7 @@
 <img src="https://stackoverflow.com/users/flair/6094213.png?theme=dark" width="208" height="58" alt="profile for Philipp Buhaievskiy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Philipp Buhaievskiy at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-Howdy, I'm Philipp — an android software engineer at [WoodSpoon](https://www.eatwoodspoon.com) company.
+Howdy, I'm Philipp — an android software engineer. 🙃
 
 <img align="center" alt="pphilipp | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 
