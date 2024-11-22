@@ -15,8 +15,6 @@ Howdy, I'm Philipp — an android software engineer. 🙃
 
 <img align="center" alt="pphilipp | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 
-**Medium Activist** and **Android community information field protector** by avoiding generation and writing tutorials and articles based on hyped technologies or themes.
-
 ## Get in touch
 
 - Telegram: https://t.me/philippoid
